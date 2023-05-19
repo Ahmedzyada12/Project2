@@ -1,0 +1,19 @@
+header{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: url(../images/WhatsApp\ Image\ 2023-02-21\ at\ 1.28.17\ AM.jpeg);  
+    background-position: center;
+    background-size: cover; 
+}
+
+.h{
+    color: rgb(184, 184, 184);
+
+}
+.hh{
+    color: rgb(35, 58, 35);
+}
+.hhh{
+    color:rgb(50, 151, 50) ;
+}
